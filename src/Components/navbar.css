@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(211, 208, 208);
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style-type:none;
+}
+.navbar a{
+    font-family: cursive;
+    list-style-type: none;
+    font-size: 25px;
+    text-decoration: none;
+    color: #659;
+    margin-top:10px;
+}

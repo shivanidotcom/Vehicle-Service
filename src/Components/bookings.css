@@ -1,0 +1,42 @@
+ .bookings button{
+    background-color:rgb(233, 35, 35);
+    width: 300px;
+    height: 35px;
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+    border-radius: 12px;
+    border: 2px solid white;
+    margin-top: 15px;
+   margin-bottom: 20px;
+
+}
+.bookings{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.location{
+   
+    margin-left:510px;
+    margin-right: 510px;
+    text-align: center;
+    box-shadow: 1px 1px 9px 1px darkgray;
+    padding-left: 60px;
+   padding-top: 20px;
+   padding-left: 15px;
+   
+}
+.bookings input{
+    height: 25px;
+    margin-left: 15px;
+}
+.bookings button:hover{
+    background-color: rgb(153, 231, 37);
+    color: black;
+    border: 2px solid white;
+}
+.thankyou{
+    text-align: center;
+}

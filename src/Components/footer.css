@@ -1,0 +1,36 @@
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(24, 23, 23);
+    color:white;
+   margin-top: 800px;
+    padding-bottom: auto;
+    
+   
+}
+.footer p{
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: center;
+}
+.footer-col-1 img{
+    width: 80px;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+ .footer-col-2 img{
+    width: 100px;
+    height: 100px;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+ul{
+    list-style-type: none;
+}

@@ -1,0 +1,14 @@
+
+.header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdqZAYPfJrthrvE7ER6QGVbAMqjUKJD17gQLCujSWNjVllKw70sv-qTjhzAv-LPxufoU&usqp=CAU);
+  
+    
+    color: white;
+    height: 200px;
+    width: 100%;
+    font-family: cursive;
+    padding-top: 110px;
+    font-size: 30px;
+    transform: rotateY(-50px);
+    text-align: center;
+}
